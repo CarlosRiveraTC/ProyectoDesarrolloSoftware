@@ -1,1 +1,1 @@
-La ruta para ejecutar las vistas es http://localhost:8081/boots/docs/examples/starter-template/index.html
+La ruta para ejecutar las vistas es http://localhost:8081/vistas/docs/examples/starter-template/index.html
