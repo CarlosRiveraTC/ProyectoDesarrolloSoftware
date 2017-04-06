@@ -5,4 +5,5 @@ que la aplicación funcionara, modelo de dominio, discurso del universo, diagram
 casos de uso.
 En la carpeta documentación se encuentra el documento de los requerimientos y la documentacion del proyecto
 basado en la metodología SCRUM
-En la carpeta de Programacion se encuentra la programacion de la pagina web usando el framework CodeIgniter, esta carpeta debe ser guardada en la xampp/htdocs
+En la carpeta de Programacion se encuentra la programacion de la pagina web usando el framework CodeIgniter,
+esta carpeta debe ser guardada en la xampp/htdocs
